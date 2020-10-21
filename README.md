@@ -3,6 +3,12 @@
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.1.6.
 
 ## Topics covered in source code
+- Angular CLI
+  - Creating an application from scratch
+  - Adding components/services
+- Angular Material
+- Two-Way Binding
+- HTTP Requests
 
 ## Development server
 
